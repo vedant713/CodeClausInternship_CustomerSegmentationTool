@@ -9,10 +9,10 @@
 
 ### 🏠 Key Features
 
-Interactive data input options (manual entry or CSV upload).
-Real-time application of K-Means clustering algorithm.
-Visualizations such as scatter plots, dendrograms, or other relevant plots to illustrate clustering results.
-Insights or summary statistics for each customer segment.
+-Interactive data input options (manual entry or CSV upload).
+-Real-time application of K-Means clustering algorithm.
+-Visualizations such as scatter plots, dendrograms, or other relevant plots to illustrate clustering results.
+-Insights or summary statistics for each customer segment.
 
 ## Install
 
